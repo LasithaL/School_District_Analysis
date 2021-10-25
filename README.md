@@ -24,7 +24,7 @@ To revise summary data for the school district's standardized math and reading t
 Two data sources, software and a repository were used in the analysis efforts of the data.
 - Data Sources: Two sources were provided containing school data and student data.
     - schools_complete.csv [school_level_data](Resources/schools_complete.csv)
-    - student_complete.csv [stident_data](Resources/students_complete.csv)
+    - student_complete.csv [student_data](Resources/students_complete.csv)
 - Software:
     - Jupyter Notebook in combination with Python was used to create, compile and run the code in the analysis of the data.
     - Visual Studios Code was used to display the instructions and collect notations.
