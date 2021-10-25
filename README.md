@@ -90,7 +90,7 @@ Original Top School Rankings:
 ![Original_School_Ranking](Analysis/Original_Top5_Ranking.PNG)
 
 Refactored Top School Rankings:
-![Refactored_School_Ranking](Analysis/Refactore_Top5_Ranking.PNG)
+![Refactored_School_Ranking](Analysis/Refactored_Top5_Ranking.PNG)
 
 ### Scores By Grade Level
 There is no effect seen in the grade level school performance in the refactored dataset. The replacing of the Thomas High School 9th grade math and reading scores change the display of the 9th grade score of the said school to **nan**.  The other summary data is not affected.  An example is displayed in the figure below.
