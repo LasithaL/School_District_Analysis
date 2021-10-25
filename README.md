@@ -19,6 +19,7 @@ To revise summary data for the school district's standardized math and reading t
 7. Summarize the scores by school type.
 
 ## Methods
+The code used in summarizing the data can be located in the jupyter notebook form within this repository as **_PyCitySchools_Challenge.ipynb_**.
 
 ### Resources
 Two data sources, software and a repository were used in the analysis efforts of the data.
