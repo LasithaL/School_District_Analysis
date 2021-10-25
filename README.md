@@ -71,7 +71,7 @@ Results were tabulated and compared between the original and refactored Thomas H
 ### District Summary
 The district summary data shifted slightly lower except for the **Average Reading Score**, which remained unchanged.
 Original District Summary:
-![Original_Cleanup_District_Summary](Analysis/Original_District_Summary.png)
+![Original_Cleanup_District_Summary](Analysis/Original_District_Summary.PNG)
 Refactored District Summary:
 ![Refactored District Summary](Analysis/Refactored_District_Summary.png)
 
